@@ -1,0 +1,92 @@
+{
+ "etapas": {
+  "astronauta": {
+   "w": 2000,
+   "h": 2000
+  },
+  "iss": {
+   "w": 2000,
+   "h": 1275
+  },
+  "tierra": {
+   "w": 2000,
+   "h": 2000
+  },
+  "tierraluna": {
+   "w": 1637,
+   "h": 2000
+  },
+  "puntoazul": {
+   "w": 2000,
+   "h": 1979
+  },
+  "vialactea": {
+   "w": 2000,
+   "h": 2000
+  },
+  "campoprofundo": {
+   "w": 1960,
+   "h": 2000
+  }
+ },
+ "pilares": {
+  "w": 1900,
+  "h": 1836
+ },
+ "creditos": [
+  {
+   "fichero": "Bruce McCandless II during EVA in 1984.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Bruce_McCandless_II_during_EVA_in_1984.jpg",
+   "licencia": "Public domain",
+   "autor": "NASA"
+  },
+  {
+   "fichero": "International Space Station after undocking of STS-132.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:International_Space_Station_after_undocking_of_STS-132.jpg",
+   "licencia": "Public domain",
+   "autor": "NASA/Crew of STS-132"
+  },
+  {
+   "fichero": "The Blue Marble (remastered).jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:The_Blue_Marble_(remastered).jpg",
+   "licencia": "Public domain",
+   "autor": "NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans"
+  },
+  {
+   "fichero": "Earth & Moon by Galileo.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Earth_%26_Moon_by_Galileo.jpg",
+   "licencia": "Public domain",
+   "autor": "NASA/JPL"
+  },
+  {
+   "fichero": "Pale Blue Dot from Voyager 1 - PIA23645.png",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Pale_Blue_Dot_from_Voyager_1_-_PIA23645.png",
+   "licencia": "Public domain",
+   "autor": "NASA/JPL-Caltech"
+  },
+  {
+   "fichero": "Artist’s impression of the Milky Way.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_the_Milky_Way.jpg",
+   "licencia": "Public domain",
+   "autor": "NASA/JPL-Caltech/ESO/R. Hurt"
+  },
+  {
+   "fichero": "Webb's First Deep Field.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field.jpg",
+   "licencia": "Public domain",
+   "autor": "NASA, ESA, CSA, and STScI"
+  },
+  {
+   "fichero": "Hubble and Webb Showcase the Pillars of Creation (Side by Side) (weic2216d).jpeg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Hubble_and_Webb_Showcase_the_Pillars_of_Creation_(Side_by_Side)_(weic2216d).jpeg",
+   "licencia": "CC BY 4.0",
+   "autor": "NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (STScI)."
+  },
+  {
+   "fichero": "Voyager spacecraft (cropped).jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft_(cropped).jpg",
+   "licencia": "Public domain",
+   "autor": "NASA/JPL"
+  }
+ ]
+}
